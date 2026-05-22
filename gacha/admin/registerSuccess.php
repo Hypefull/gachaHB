@@ -81,7 +81,7 @@
 </head>
 <body>
     <div class="login-wrapper">
-        <h1 class="brand">HB Gacha</h1>
+        <h1 class="brand">Admin</h1>
 
         <div class="card">
             <div class="checkmark">✓</div>
